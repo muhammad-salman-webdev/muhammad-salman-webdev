@@ -5,7 +5,7 @@
 ## About me
 
 - ✨ Creating Websites since 2021
-- 📚 I'm currently Working on <img src="./assets/upwork.png" width="17" /> @ <a href='https://www.upwork.com/freelancers/~01ac67b9194ae116b4'> Upwork</a>
+- 📚 I'm working as a freealancer @ <a href='https://www.upwork.com/freelancers/~01ac67b9194ae116b4'> Upwork</a>
 
 ## I code with
 
