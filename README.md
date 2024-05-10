@@ -1,23 +1,52 @@
-<h1 align="center">Hi 👋, I'm Muhammad Salman</h1>
-<h3 align="center">A passionate Frontend Developer from Pakistan</h3>
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-salman-webdev&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-salman-webdev" /> </p>
+<p> My name is <strong>Salman</strong> and I'm a Javascript Developer, from <img src="./assets/pakistan.png" width="17" /> <b>Lahore, Pakistan</b>. </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-salman-webdev" alt="muhammad-salman-webdev" /></a> </p>
+## About me
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- ✨ Creating Websites since 2021
+- 📚 I'm currently Working on <img src="./assets/upwork.png" width="17" /> Upwork
+- 🎯 Goals: live in a cold place ❄ and speak english 🚀
+- 🎲 And ... i play 🎸 guitar and ♟ chess online
 
-- 🔭 I'm working as a Freelane Developer [@Upwork](https://www.upwork.com/freelancers/~01ac67b9194ae116b4)
+## I code with
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<a href="https://www.typescriptlang.org" target="_blank">
+  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/typescript-logo.svg" />
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<a href="https://pt-br.reactjs.org" target="_blank">
+ <img align="left" title="React and React Native" alt="React and React Native" width="40px" src="./assets/react-logo.svg" />
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-salman-webdev&show_icons=true&locale=en&layout=compact" alt="muhammad-salman-webdev" /></p>
+<a href="https://tailwindcss.com" target="_blank">
+ <img align="left" title="Tailwind Css" alt="Tailwind Css" width="40px" src="./assets/tailwind-logo.svg" />
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-salman-webdev&show_icons=true&locale=en" alt="muhammad-salman-webdev" /></p>
+<a href="https://nextjs.org" target="_blank">
+  <img align="left" title="Next Js" alt="Next Js" width="40px" src="./assets/next-logo.svg" />
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-salman-webdev&" alt="muhammad-salman-webdev" /></p>
+<a href="https://nestjs.com" target="_blank">
+  <img align="left" title="Nest Js" alt="Nest Js" width="40px" src="./assets/nest-logo.svg" />
+</a>
+
+<a href="https://go.dev" target="_blank">
+  <img align="left" title="Go Lang" alt="Go Lang" width="40px" src="./assets/golang-logo.svg" />
+</a>
+
+<a href="https://graphql.org" target="_blank">
+  <img align="left" title="GraphQL" alt="GraphQL" width="40px" src="./assets/graphql-logo.svg" />
+</a>
+
+<a href="https://jestjs.io/pt-BR/" target="_blank">
+  <img align="left" title="Jest" alt="Jest" width="40px" src="./assets/jest-logo.svg" />
+</a>
+
+<a href="https://www.cypress.io" target="_blank">
+  <img align="left" title="Cypress" alt="Jest" width="40px" src="./assets/cypress-logo.svg" />
+</a>
+
+<a href="https://storybook.js.org" target="_blank">
+  <img align="left" title="Storybook" alt="Storybook" width="40px" src="./assets/storybook-logo.svg" />
+</a>
