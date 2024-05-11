@@ -9,24 +9,24 @@
 
 ## I code with
 
-<a href="https://www.typescriptlang.org" target="_blank">
+<a  target="_blank">
   <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/html.png " />
 </a>
 
-<a href="https://www.typescriptlang.org" target="_blank">
+<a  target="_blank">
   <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/social.png" />
 </a>
-<a href="https://www.typescriptlang.org" target="_blank">
+<a  " target="_blank">
   <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/js.png" />
 </a>
 
-<a href="https://tailwindcss.com" target="_blank">
+<a  target="_blank">
  <img align="left" title="Tailwind Css" alt="Tailwind Css" width="40px" src="./assets/bootstrap.png" />
 </a>
 
-<a href="https://tailwindcss.com" target="_blank">
+<a   target="_blank">
  <img align="left" title="Tailwind Css" alt="Tailwind Css" width="40px" src="./assets/tailwind-logo.svg" />
 </a>
-<a href="https://tailwindcss.com" target="_blank">
+<a  target="_blank">
  <img align="left" title="Tailwind Css" alt="Tailwind Css" width="40px" src="./assets/figma.png" />
 </a>
