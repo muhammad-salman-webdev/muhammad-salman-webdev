@@ -4,8 +4,7 @@
 
 ## About me
 
-- ✨ Creating Websites since 2021
-- 📚 I'm working as a freealancer @ <a target='_blank' href='https://www.upwork.com/freelancers/~01ac67b9194ae116b4'> Upwork</a>
+- ✨ Creating bugs since 2021
 
 ## I code with
 
