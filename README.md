@@ -18,7 +18,7 @@ I specialize in **building high-performance, pixel-perfect websites** using mode
 
 ## 📌 **Featured Projects**  
 - **[ElanceDEI](https://github.com/muhammad-salman-webdev/elance-dei)** – DEI Consulting Business Site  
-- **[Little Miss](https://little-miss.netlify.app/)** – A Stylish Landing Page  
+- **[Little Miss](https://github.com/muhammad-salman-webdev/little-miss)** – A Stylish Landing Page  
 
 ## 📬 **Let's Connect!**  
 💼 **Portfolio:** [muhammadsalmanwebdev.com](https://muhammadsalmanwebdev.com/)  
