@@ -27,28 +27,3 @@ I specialize in **building high-performance, pixel-perfect websites** using mode
 🐙 **GitHub:** [github.com/muhammad-salman-webdev](https://github.com/muhammad-salman-webdev)  
 
 🎯 *Building fast, beautiful, and future-ready websites!* 🚀
-
-
-## I code with
-
-<a  target="_blank">
-  <img align="left" title="HTML" alt="HTML" width="40px" src="./assets/html.png " />
-</a>
-
-<a  target="_blank">
-  <img align="left" title="CSS" alt="CSS" width="40px" src="./assets/social.png" />
-</a>
-<a  " target="_blank">
-  <img align="left" title="JavaScript" alt="JavaScript" width="40px" src="./assets/js.png" />
-</a>
-
-<a  target="_blank">
- <img align="left" title="Bootstrap" alt="Bootstrap" width="40px" src="./assets/bootstrap.png" />
-</a>
-
-<a   target="_blank">
- <img align="left" title="Tailwind CSS" alt="Tailwind CSS" width="40px" src="./assets/tailwind-logo.svg" />
-</a>
-<a href="https://www.figma.com/@MuhammadSalman_" target='_blank' target="_blank">
- <img align="left" title="Figma" alt="Figma" width="40px" src="./assets/figma.png" />
-</a>
