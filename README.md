@@ -23,7 +23,6 @@ I specialize in **building high-performance, pixel-perfect websites** using mode
 ## 📬 **Let's Connect!**  
 💼 **Portfolio:** [muhammadsalmanwebdev.com](https://muhammadsalmanwebdev.com/)  
 📧 **Email:** [muhammadsalman.webdev@gmail.com](mailto:muhammadsalman.webdev@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/muhammad-salman-webdev](https://linkedin.com/in/muhammad-salman-webdev)  
-🐙 **GitHub:** [github.com/muhammad-salman-webdev](https://github.com/muhammad-salman-webdev)  
+🔗 **LinkedIn:** [linkedin.com/in/muhammad-salman-webdev](https://linkedin.com/in/muhammad-salman-webdev)
 
 🎯 *Building fast, beautiful, and future-ready websites!* 🚀
